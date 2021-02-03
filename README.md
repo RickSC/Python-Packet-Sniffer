@@ -1,5 +1,5 @@
 # Python-Packet-Sniffer
-A packet sniffer for TCP/UDP ports written in Python.
+Packet Sniffer for Python with Simple Interface (Easy to Modify)
 
 
 * Uses user interface form Python-Port-Scanner.
